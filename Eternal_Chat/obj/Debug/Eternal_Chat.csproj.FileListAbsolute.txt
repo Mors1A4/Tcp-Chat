@@ -1,8 +1,0 @@
-D:\OneDrive\Documents\Projects\ChatGPT\Unity game\server\Eternal_Chat\Eternal_Chat\bin\Debug\Eternal_Chat.exe.config
-D:\OneDrive\Documents\Projects\ChatGPT\Unity game\server\Eternal_Chat\Eternal_Chat\bin\Debug\Eternal_Chat.exe
-D:\OneDrive\Documents\Projects\ChatGPT\Unity game\server\Eternal_Chat\Eternal_Chat\bin\Debug\Eternal_Chat.pdb
-D:\OneDrive\Documents\Projects\ChatGPT\Unity game\server\Eternal_Chat\Eternal_Chat\obj\Debug\Eternal_Chat.csproj.AssemblyReference.cache
-D:\OneDrive\Documents\Projects\ChatGPT\Unity game\server\Eternal_Chat\Eternal_Chat\obj\Debug\Eternal_Chat.csproj.SuggestedBindingRedirects.cache
-D:\OneDrive\Documents\Projects\ChatGPT\Unity game\server\Eternal_Chat\Eternal_Chat\obj\Debug\Eternal_Chat.csproj.CoreCompileInputs.cache
-D:\OneDrive\Documents\Projects\ChatGPT\Unity game\server\Eternal_Chat\Eternal_Chat\obj\Debug\Eternal_Chat.exe
-D:\OneDrive\Documents\Projects\ChatGPT\Unity game\server\Eternal_Chat\Eternal_Chat\obj\Debug\Eternal_Chat.pdb
