@@ -1,7 +1,7 @@
 # Tcp-Chat
 This is a server and a client built in C# in visual studio for a chat application that runs in the windows console.
 
-Here i have included the visual studio project files in the zipped folders, furthermore i have added the c# source code on its own.
+Here i have included the visual studio project files in the folders, furthermore as this is built as a stand alone executable i have also attached the final build executables for each.
 
 Here are some screen shots for the client:
 
