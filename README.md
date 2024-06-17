@@ -1,5 +1,11 @@
 # Tcp-Chat
-This is a server and a client built in C# in visual studio for a chat application that runs in the windows console.
+Tcp-Chat is a console-based chat application developed in C# using Visual Studio. It consists of a server and client, enabling network-based communication. Key features include:
+
+Server-Client Architecture: The server handles multiple client connections, allowing real-time chat functionality.
+Console Interface: Both server and client run in the Windows console, providing a text-based user interface.
+C# Implementation: Utilizes C# networking libraries for socket communication.
+This project demonstrates basic networking principles through a practical chat application.
+
 
 Here i have included the visual studio project files in the folders, furthermore as this is built as a stand alone executable i have also attached the final build executables for each.
 
